@@ -35,8 +35,6 @@
         <field name="arch" type="xml">
             <tree string="repos">
                 <field name="name"/>
-                <field name="testing"/>
-                <field name="running"/>
                 <field name="auto"/>
             </tree>
         </field>
